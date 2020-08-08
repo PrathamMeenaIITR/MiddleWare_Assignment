@@ -53,5 +53,32 @@ Problem Statement: A Take Home company requires a billing software for its super
 - c.	and display the final bill to user.
 
 
+1.	Generate Bill by entering Product code and quantity
+
+A)	Enter Product Details		 
+
+Following information should be accepted from the cashier when he/she bills the product chosen by the customer. 
+
+Enter the product code: 1001
+Enter the quantity: 2
+
+Note: 
+i.	Quantity should not be lesser than or equal to zero
+ii.	Validation should be taken care for all input fields(i.e. ProductCode should be 4 digit )
+     
+B)	Calculating Total and displaying the bill
+
+When the above details are entered by the cashier, this application should calculate the line total (product_price * quantity), display the following information 
+
+Product Name: 		iPhone
+Product Category:		Electronics
+Product Description:		Smart Phone
+Product Price (Rs): 		35000
+Quantity:			2
+Line Total (Rs): 		70000
+
+C)	If the Product Code is not available in existing  HashMap  collection following error message will be displayed
+
+Sorry ! The Product Code<<product_code>> is not available.
 
 
