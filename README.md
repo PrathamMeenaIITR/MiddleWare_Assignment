@@ -48,9 +48,9 @@ Problem Statement: Mobile Service Provider needs an application for Customer to 
 
 Problem Statement: A Take Home company requires a billing software for its super market where different types of products are sold to the customers on retail basis. This billing software will help
 
-a.	the cashier to see the product information on entering the product code
-b.	calculate the total cost for each product based on the quantity
-c.	and display the final bill to user.
+- a.	the cashier to see the product information on entering the product code
+- b.	calculate the total cost for each product based on the quantity
+- c.	and display the final bill to user.
 
 
 
